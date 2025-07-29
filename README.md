@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/salini-jha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
-  <a href="Salinijha01@gmail.com" target="_blank">
+  <a href="mailto:salinijha01@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
 </div>
